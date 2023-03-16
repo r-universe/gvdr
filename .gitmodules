@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "whereport"]
+	path = whereport
+	url = https://github.com/gvdr/whereport
+	shallow = true
+	registered = true
